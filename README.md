@@ -1,6 +1,6 @@
 ## **Predicting Hospital Readmissions**
 
-* This repository contains the project developed for the **Machine Learning** course  as part of the MDSAA program at NOVAIMS.
+* This repository contains the group project developed for the **Machine Learning** course  as part of the MDSAA program @ NOVAIMS.
 
 #### Project Objectives
 
