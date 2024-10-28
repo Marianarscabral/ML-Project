@@ -2,7 +2,7 @@
 
 * This repository contains the project developed for the **Machine Learning** course  as part of the MDSAA program at NOVAIMS.
 
-### Project Objectives
+#### Project Objectives
 
 The project consists of two primary objectives:
 
